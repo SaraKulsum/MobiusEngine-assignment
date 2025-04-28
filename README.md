@@ -2,6 +2,9 @@
 
 A fully responsive, modern landing page built with React + vite + tailwind CSS.
 
+## Developed By
+Sara Kulsum
+
 ## Project Link
 https://mobiusengine-assignment.web.app
 
