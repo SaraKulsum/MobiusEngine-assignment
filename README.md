@@ -1,12 +1,55 @@
-# React + Vite
+# MobiusEngine.ai landing page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A fully responsive, modern landing page built with React + vite + tailwind CSS.
 
-Currently, two official plugins are available:
+## Project Link
+https://mobiusengine-assignment.web.app
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Project Setup Instructions
 
-## Expanding the ESLint configuration
+### Installation
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/SaraKulsum/MobiusEngine-assignment.git
+   ```
+
+2. **Install dependencies**
+   ```bash
+   npm install
+   ```
+
+3. **Start development server**
+   ```bash
+   npm run dev
+   ```
+   
+### Build for Production
+
+```bash
+npm run build
+```
+
+The optimized build will be created in the `dist` folder.
+
+## Project Details
+
+### Responsive Design
+- **100% Responsive**: Fully optimized for all devices - mobile phones, tablets, and desktops
+- **Fluid Layouts**: Content adapts seamlessly to different screen sizes with no horizontal scrolling
+- **Responsive Images**: All images scale appropriately for different viewports
+- **Touch-Friendly**: All interactive elements are properly sized for touch input on mobile devices
+- **Flexible Typography**: Text scales appropriately across different screen sizes
+
+### Key Features
+- Modern, clean UI/UX design
+- Fast loading performance
+- Optimized for SEO
+- Cross-browser compatibility
+- Accessible following WCAG guidelines
+- Modular component architecture for easy maintenance
+
+### Technology Stack
+- React.js for UI components
+- Tailwind CSS for styling
+- Component-based architecture for modularity
